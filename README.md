@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying Information Security of Telecommunication Systems at Lobachevsky University.
+- 🎓 Studying Information Security of Telecommunication Systems.
 - 🛠 Passionate about systems administration, networking, automation, and quality assurance.
 - 🎯 Exploring infrastructure security, containerization, and reliable software delivery.
 
