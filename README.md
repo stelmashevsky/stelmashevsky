@@ -16,10 +16,10 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,linux,bash,c,cpp,javascript,html,css,docker,git,postman,wireshark,Jira,Confluence&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,go,linux,bash,javascript,html,css,docker,git,postman,wireshark,Jira,Confluence&perline=8" />
 </p>
 
-* **Languages:** Python, Bash, SQL, Go.
+* **Languages:** Python, Bash, SQL, Go, JS.
 * **Tools & OS:** Linux, Docker, Git, Wireshark, Postman, EVE-NG, MikroTik.
 
 ---
