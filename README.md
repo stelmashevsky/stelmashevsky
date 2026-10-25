@@ -25,5 +25,5 @@
 ---
 
 ### 📫 How to reach me
-- Telegram: [@Is43v](https://t.me/Is43v)
+- Telegram: [@platonius_big](https://t.me/platonius_big)
 - Email: p.avrelin@gmail.com
